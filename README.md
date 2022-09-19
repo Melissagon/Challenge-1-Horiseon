@@ -12,6 +12,6 @@ What was done:
 - Consolidated and organiezed CSS selectors and properties to follow semantic structure. 
 - Added comments to CSS file.
 
-![screenshot 1](assets/Images/Screenshot%201.png)
-![screenshot 2](assets/Images/Screenshot%202.png)
-![screenshot 3](assets/Images/Screenshot%203.png)
+![screenshot 1](assets\Images\screenshot-1.png)
+![screenshot 2](assets\Images\screenshot-2.png)
+![screenshot 3](assets\Images\screenshot-3.png)
