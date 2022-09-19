@@ -7,8 +7,10 @@ URL:
 
 What was done: 
 - Added alt description to all pictures. 
+- fixed links
 - Cleaned up HTML elements to make them more descriptive. 
-- Combined elements in CSS to make the file more compact. 
+- Consolidated and organiezed CSS selectors and properties to follow semantic structure. 
+- Added comments to CSS file.
 
 ![screenshot 1](assets/Images/Screenshot%201.png)
 ![screenshot 2](assets/Images/Screenshot%202.png)
